@@ -12,7 +12,7 @@ kehidupan lapangan itu sangat berbeda jauh dengan kehidupan dengan berlandaskan 
 satu dari sudut pandang teori yang di susun oleh tim professional.
 dua dari sudut pandang teori dari seorang professional juga tapi bukan tim.
 
-ini yang membuat menarik, ternyata dalam dunia hacking khusus nya untuk role spesifik yaitu bug bounty hunter, point of view in problem solving (penglihatan sudut pandang dalam pemecahan masalah) itu antara 1 banding tak hingga, mengapa?
+ini yang membuat menarik, ternyata dalam dunia yaitu bug bounty hunter, point of view in problem solving (penglihatan sudut pandang dalam pemecahan masalah) itu antara 1 banding tak hingga, mengapa?
 secara sederhana penggunaan tools nya itu pakai berbasis gui atau cli?
 
 hasil perbandingkan saya si @jhaddix untuk hal pertama saja, dia sudah memakai cli dalam hal reconnaissance
